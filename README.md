@@ -1,13 +1,15 @@
-# Hi, I’m Lorenzo 👋
+### Hi, I’m Lorenzo 👋
 
-An aspiring iOS developer with an eye for thoughtful design and polished user experiences.
+I make apps for the Apple ecosystem, and I care about the details people rarely notice but always feel.
 
-- 📱 Learning **Swift** and **SwiftUI**
-- 🎨 Interested in app design, UX, and native Apple platforms
-- 🧩 Building towards a portfolio of well-crafted mobile apps
-- 🌱 Currently sharpening my development and Figma skills
+I want every little piece to be there on purpose, so you can tell someone thought of everything. Lately I’ve been going deep on design, because more than anything, I want my apps to feel amazing to use.
 
-## Links
+My dream is to start an app studio in my home country, Thailand 🇹🇭, where the only limit is imagination and today’s tools (AI included) help bring every idea to life.
 
-- 🌐 Portfolio: [lorenzozemp.github.io](https://lorenzozemp.github.io/)
-- 📫 Email: [lorenzozemp@protonmail.ch](mailto:lorenzozemp@protonmail.ch)
+#### Things I love
+
+- Products that pay attention to detail
+- Video games, especially on my Nintendo Switch 2
+- When things just work
+
+[Portfolio](https://lorenzozemp.github.io/) · [Email](mailto:lorenzozemp@protonmail.ch)
