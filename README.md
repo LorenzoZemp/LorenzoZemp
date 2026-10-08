@@ -1,6 +1,6 @@
 ### Hi, I’m Lorenzo 👋
 
-I currently make apps for the Apple ecosystem, with extra care about the details people rarely notice.
+I currently make apps for the native apps for apple systems and android, with extra care about the details people rarely notice.
 
 I want every little piece to be there on purpose, so you can tell someone thought of everything. Lately I’ve been going deep on design, because more than anything, I want my apps to not just look but feel amazing to use.
 
