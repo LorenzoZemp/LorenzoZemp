@@ -12,4 +12,4 @@ The only limit is imagination, its time to bring ideas to life.
 - Video games
 - AI
 
-[Email](mailto:lorenzozemp@icloud.com)
+[Email](mailto:contact@lorenzomakes.app)
